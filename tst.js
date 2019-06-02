@@ -13,6 +13,7 @@ console.log("sum is :"+sum);
 df = {
     "name" : "DJ",
     "age" : 24,
+    "occupation" : "student"
 }
 
 for(data in df){
